@@ -38,4 +38,6 @@ https://wiki.archlinux.org/title/Software_access_point
 for setting up a virtual interface to allow wifi to be used simultaneously with hotspot 
 /etc/systemd/system/create-virtual-interface.service
 
-==Github for 
+==Github for syncing obsidian
+
+https://github.com/tobibadejo/Notes
