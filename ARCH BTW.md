@@ -41,3 +41,7 @@ for setting up a virtual interface to allow wifi to be used simultaneously with 
 ==Github for syncing obsidian
 
 https://github.com/tobibadejo/Notes
+
+==WORDLIST
+
+https://disk.yandex.ru/d/1spMBmxcEnN95g for rockyou 2024
