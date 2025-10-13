@@ -45,3 +45,7 @@ https://github.com/tobibadejo/Notes
 ==WORDLIST
 
 https://disk.yandex.ru/d/1spMBmxcEnN95g for rockyou 2024
+
+==Things you should probably do 
+
+https://www.reddit.com/r/archlinux/comments/1o5kmrw/things_you_probably_should_do/
