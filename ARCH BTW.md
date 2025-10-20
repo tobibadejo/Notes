@@ -8,6 +8,8 @@ Display manager: /usr/share/sddm/themes/sddm-astronaut-theme/metadata.desktop
 
 Links to all caelestia configs: ~/.config/hypr/hyprland.conf
 
+https://wiki.hypr.land/Configuring/Variables/#input
+
 ==**GitHub repos**
 
 Caelestia https://github.com/caelestia-dots/caelestia
