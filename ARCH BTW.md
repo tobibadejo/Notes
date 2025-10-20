@@ -10,6 +10,10 @@ Links to all caelestia configs: ~/.config/hypr/hyprland.conf
 
 https://wiki.hypr.land/Configuring/Variables/#input
 
+==Connecting to wifi
+
+
+
 ==**GitHub repos**
 
 Caelestia https://github.com/caelestia-dots/caelestia
