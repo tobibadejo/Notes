@@ -12,7 +12,7 @@ https://wiki.hypr.land/Configuring/Variables/#input
 
 ==Connecting to wifi
 
-
+sudo nmcli device wifi connect CSIS_EIE_WIFI pasword 12345678
 
 ==**GitHub repos**
 
