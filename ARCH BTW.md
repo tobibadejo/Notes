@@ -55,3 +55,26 @@ https://disk.yandex.ru/d/1spMBmxcEnN95g for rockyou 2024
 ==Things you should probably do 
 
 https://www.reddit.com/r/archlinux/comments/1o5kmrw/things_you_probably_should_do/
+
+# Material colours
+    primary_scheme = get_scheme(scheme.variant)(primary, not light, 0)
+    if hasattr(MaterialDynamicColors, "all_colors"):  # materialyoucolor-python >= 3.0.0
+        dyn_colours = MaterialDynamicColors()
+        for colour in dyn_colours.all_colors:
+            colours[colour.name] = colour.get_hct(primary_scheme)
+    else:
+        for colour in vars(MaterialDynamicColors).keys():
+            colour_name = getattr(MaterialDynamicColors, colour)
+            if hasattr(colour_name, "get_hct"):
+                colours[colour] = colour_name.get_hct(primary_scheme)
+
+
+
+    # Harmonize terminal colours
+    for i, hct in enumerate(light_gruvbox if light else dark_gruvbox):
+        if scheme.variant == "monochrome":
+            colours[f"term{i}"] = grayscale(hct, light)
+        else:
+            colours[f"term{i}"] = harmonize(
+                hct, colours["primary_paletteKeyColor"], (0.35 if i < 8 else 0.2) * (-1 if light else 1)
+            )
