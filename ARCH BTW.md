@@ -23,6 +23,8 @@ SDDM themes: https://github.com/Keyitdev/sddm-astronaut-theme/tree/master
 
 To update caelestia: cd ~/.local/share/caelestia then git pull
 
+==moun
+
 ==External hard drive mounting issues
 
 To see exact path
