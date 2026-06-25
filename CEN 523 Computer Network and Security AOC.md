@@ -1,13 +1,14 @@
 **Test 1 and Test 2 about 50%**
 
 Differences between network security, cyber security. Technical difference and similarities. 
+
 Speed is very important. 
+
 Datagram. Interpret data given from wireshark. Packet switching parameters, all part of the subnetting. Break network when given a network ID into 3, 4, 5 different subnet using network ID, subnet mask, Host ID, broadcast, Host. Understand
 
-- Sequentially tell him 14 or 17 logic steps _(Check this out)_
-    
+Sequentially tell him 14 or 17 logic steps _(Check this out)
 - QoS why is it necessary, what are the metrics for QoS, given questions based on combining one or 2, numerical questions, know the formula.
-    
+
 - Latency: 4, 5, 6 routines end to end calculations
     
 
