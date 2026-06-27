@@ -126,7 +126,7 @@ Max penalty: Imprisonment up to 2 years or a fine upto ₦5,000,000 or both.
 
 **f) Policy gaps I would address after this incident**
 
-i) The absence of a unified, Organization-wide password complexity & Rotation policy.
+1.  Enterprise-Wide Password Complexity and Lifecycle Policy
 
 ii) Inadequate Role-Based Access Control (RBAC) preventing lateral movement & unauthorized file access by mid-level administrators.
 
