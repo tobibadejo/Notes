@@ -121,14 +121,6 @@ Max penalty: Imprisonment up to 2 years or a fine upto ₦5,000,000 or both.
 
 Max penalty: Imprisonment up to 2 years or a fine upto ₦5,000,000 or both.
 
-**d) i) Discharge Circumstances:** The Court might discharge / offer leniency if it determines a total absence of Malicious Intent (mens) & classifies the act as misguided but genuine internal whistle blowing.
-
-**ii) Fine / Suspended sentence:** Expected if this is a first time offense, the intention was demonstrably protective, & no data was exfiltrated / sold, heavily weighing.
-
-**iii) Custodial / sentence:** Justifiable if the Court focuses heavily on the aggravating factors: the breach of high-level executive data.
-
-**v) Role of intent, insider access & Repetition:** Intent serves as a primary mitigating factor. However insider access is an aggravating factor, representing a severe breach of fiduciary trust.
-
 **f) Policy gaps I would address after this incident**
 
 i) The absence of a unified, Organization-wide password complexity & Rotation policy.
