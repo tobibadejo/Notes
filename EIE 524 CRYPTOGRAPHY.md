@@ -38,10 +38,11 @@ b. **OT role:** SOC, edge gateways or PLCs decrypt received telemetry/commands t
 **ANSWER**
 
 ) Active Attack: The attacker alters the data stream, bypasses authentication mechanisms or disrupts system resources. These attacks threaten data integrity & availability, often causing immediate structural damage or unauthorized access.
-**Examples
+**Examples**
+i) Denial of Service (DOS) 
+ii) Masquerade (Impersonation)
 
 ii) Passive Attack: The attacker monitors/analyzes the transmission to extract information without altering the data or disrupting system operations. These attacks threaten confidentiality & remain difficult to detect as system functionality is unimpeded.
-
-Active Attack i) Denial of Service (DOS) ii) Masquerade (Impersonation)
-
-Passive Attack i) Eavesdropping ii) Traffic Analysis
+**Examples**
+i) Eavesdropping 
+ii) Traffic Analysis
