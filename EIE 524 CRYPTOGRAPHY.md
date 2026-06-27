@@ -108,3 +108,4 @@ ii) **Arguments to Condemn the actions**
 i) **Unlawful Access to a Computer system (Section 6):** The administrator intentionally accessed the computing infrastructure. Max penalty: Imprisonment up to 5 years or a fine up to ₦5,000,000 or both.
 
 ii) **System/Data Interference (Section 14):** By extracting & subjecting password files to brute force cracking software.
+
