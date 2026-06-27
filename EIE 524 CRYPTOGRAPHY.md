@@ -135,3 +135,4 @@ iv) Mandated Incident Reporting, Escalation, and Responsible Disclosure Policy
 
 v) Privileged User Activity Monitoring and Automated Auditing Policy
 
+vi) Acceptable Use and Regular Security Awareness Training Policy
