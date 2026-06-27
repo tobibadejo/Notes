@@ -37,3 +37,10 @@ b. **OT role:** SOC, edge gateways or PLCs decrypt received telemetry/commands t
 
 **ANSWER**
 
+) Active Attack: The attacker only monitors or intercepts communication without modifying data by altering, disrupting or injecting data into the communication process.
+
+ii) Passive Attack: This is a kind of security attack that the attack only monitors or intercept communication without modifying data.
+
+Active Attack i) Denial of Service (DOS) ii) Masquerade (Impersonation)
+
+Passive Attack i) Eavesdropping ii) Traffic Analysis
