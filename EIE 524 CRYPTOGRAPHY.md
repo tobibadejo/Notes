@@ -113,7 +113,7 @@ Max penalty: Imprisonment up to 2 years or a fine upto ₦5,000,000 or both.
 
 **d) i) Discharge Circumstances:** The Court might discharge / offer leniency if it determines a total absence of Malicious Intent (mens) & classifies the act as misguided but genuine internal whistle blowing.
 
-**ii) Fine / Suspended sentence:** Expected if this is a first time offense, the intention was demonstrably protective, & no data was exfiltrated / sold, heavily weighing.
+**ii) Fine / Suspended sentence:** Expected if this is a first time offense, the intention was demonstrably protective, & no data was exfiltrated / sold, heavily weighing in their favor.
 
 **iii) Custodial / sentence:** Justifiable if the Court focuses heavily on the aggravating factors: the breach of high-level executive data.
 
