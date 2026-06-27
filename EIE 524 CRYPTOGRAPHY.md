@@ -32,3 +32,6 @@ b. **OT role:** Underpins secure OPC UA over TLS, IPsec site-to-site tunnels, VP
 
 ix. **Decipher (Decrypt)**     a. **Definition:** The process of transforming ciphertext back into plaintext using the appropriate cipher and key, including verification of integrity/authenticity when using AEAD modes. **(0.5 Mark)**     
 b. **OT role:** SOC, edge gateways or PLCs decrypt received telemetry/commands to act upon them; failure to authenticate/decrypt signals tampering or misconfiguration. **(0.5 Mark)**
+
+**(b)** You have been notified through a recent security audit that a corporate cloud-based enterprise network supporting remote work services, internal databases, and authentication systems has suffered a security incident. In response to this, identify and describe two major categories of security attacks that are likely to occur in such a situation and types examples of each. (4 Marks)
+
