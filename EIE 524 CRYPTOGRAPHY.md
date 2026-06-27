@@ -46,3 +46,4 @@ ii) Passive Attack: The attacker monitors/analyzes the transmission to extract i
 **Examples**
 i) Eavesdropping 
 ii) Traffic Analysis
+
