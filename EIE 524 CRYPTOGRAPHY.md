@@ -70,8 +70,14 @@ Using the **ACM Code of Ethics** and the **IEEE Code of Ethics**, discuss FOUR (
 **(c) Legal Analysis**      **(3 marks)**
 Assuming prosecution under the **Cyber-crimes (Prohibition, Prevention, etc.) Act, 2015 (Nigeria)** as amended, identify and explain **_THREE_** the possible offences the systems administrator may be charged with. For each offence, state the relevant statutory provision and the maximum penalty.
 
-**(d) Sentencing Outcome**      **(4 marks)** Critically evaluate how a Nigerian court is likely to approach sentencing in this case. In your answer, discuss:      i. Circumstances under which the accused may be discharged      ii. Factors that may lead to a fine or suspended sentence      iii. Factors that may justify a custodial sentence      iv. The role of intent, insider access, and repetition of conduct
+**(d) Sentencing Outcome**      **(4 marks)** 
+Critically evaluate how a Nigerian court is likely to approach sentencing in this case. In your answer, discuss:      
+	i. Circumstances under which the accused may be discharged      
+	ii. Factors that may lead to a fine or suspended sentence      
+	iii. Factors that may justify a custodial sentence      
+	iv. The role of intent, insider access, and repetition of conduct
 
-**(e) Professional Responsibility and Alternative (corrective) Action**      **(1.5 marks)** Propose what the systems administrator **should have done instead** after discovering weak passwords in other departments, Mention four.
+**(e) Professional Responsibility and Alternative (corrective) Action**      **(1.5 marks)**
+Propose what the systems administrator **should have done instead** after discovering weak passwords in other departments, Mention four.
 
 **(f)** If you were the organisation's Chief Information Security Officer (CISO), what **six policies gaps** would you address after this incident?      **(2 marks)**
