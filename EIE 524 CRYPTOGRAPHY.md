@@ -100,7 +100,7 @@ ii) **Arguments to Condemn the actions**
 
 - **Respect privacy & Maintain Confidentiality:** By viewing & cracking the passwords of unassigned users including executives.
     
-- **Acknowledge & Support authorized uses:** The administrator bypassed established governance boundaries & authorization protocols, acting essentially.
+- **Acknowledge & Support authorized uses:** The administrator bypassed established governance boundaries & authorization protocols, acting essentially on their own accord.
     
 
 **3c) Possible offences the system administrator may be charged with**
