@@ -112,6 +112,7 @@ ii) **System/Data Interference (Section 14):** By extracting & subjecting passwo
 Max penalty: **₦10,000,000 fine or 7 years imprisonment, or both**.
 
 iii) **Unauthorised Interception or Acquisition of Data**
+Max penalty: ₦5,000,000 fine or 3 years imprisonment
 
 **d) i) Discharge Circumstances:** The Court might discharge / offer leniency if it determines a total absence of Malicious Intent (mens) & classifies the act as misguided but genuine internal whistle blowing.
 
