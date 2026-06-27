@@ -103,7 +103,7 @@ ii) **Arguments to Condemn the actions**
 - **Acknowledge & Support authorized uses:** The administrator bypassed established governance boundaries & authorization protocols, acting essentially.
     
 
-**3c) Possible offences the system administrator maybe charged with**
+**3c) Possible offences the system administrator may be charged with**
 
 i) **Unlawful Access to a Computer system (Section 6):** The administrator intentionally accessed the computing infrastructure. Max penalty: Imprisonment up to 5 years or a fine up to ₦5,000,000 or both.
 
