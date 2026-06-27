@@ -109,7 +109,7 @@ i) **Unlawful Access to a Computer system (Section 6):** The administrator inten
 
 ii) **System/Data Interference (Section 14):** By extracting & subjecting password files to brute force cracking software.
 
-Max penalty: Imprisonment up to 2 years or a fine upto ₦5,000,000 or both.
+Max penalty: **₦10,000,000 fine or 7 years imprisonment, or both**.
 
 **d) i) Discharge Circumstances:** The Court might discharge / offer leniency if it determines a total absence of Malicious Intent (mens) & classifies the act as misguided but genuine internal whistle blowing.
 
