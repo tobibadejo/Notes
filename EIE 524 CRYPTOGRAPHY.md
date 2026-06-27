@@ -1,4 +1,4 @@
-Test 1 (AOC) version
+==Test 1 (AOC) version==
 Question 1
 ==**a)**== You have been engaged as part of a cybersecurity evaluation exercise for a multinational oil and gas enterprise operating highly integrated Industrial Control Systems (ICS), Supervisory Control and Data Acquisition (SCADA) networks, and secure cloud-linked telemetry infrastructure connecting offshore production platforms, subsea pipelines, and onshore refinery control centers. The organization relies on real-time encrypted data exchange between distributed control nodes, programmable logic controllers (PLCs), and centralized security operations centers (SOC). Given the high-risk environment—including potential Advanced Persistent Threat (APT) activity targeting operational technology (OT) systems—you are expected to demonstrate a clear technical understanding of fundamental cryptographic concepts as applied in securing industrial communication protocols such as **TLS-secured OPC UA**, **IPsec tunnels**, and **AES-encrypted** telemetry streams. As part of this assessment, define and explain the **_nine cryptographic and information security terms_** in a technically grounded manner, referencing their role in securing machine-to-machine and system-to-system communications in this environment as depicted by Figure Q1a (9.5 Marks)
 ![[Picture.png]]{width=692}
@@ -48,4 +48,25 @@ i) Eavesdropping
 ii) Traffic Analysis
 
 
-Test 2 
+==Test 2==
+**QUESTION THREE**
+
+**Legal and Ethical Issues Case Study Scenario** You are a mid-level systems administrator in a large multi-department organisations. Your responsibilities include maintaining user accounts, enforcing password policies, and performing routine security audits for your assigned department. To improve system security, you regularly use password auditing tools to test whether users' passwords in your department are strong enough to resist brute-force and dictionary attacks.
+
+This practice is permitted within your departmental scope and is part of your internal security duties. Recently, you became aware of increased hacker activity targeting organisational systems. Motivated by concern for overall organisational security, you decided to extend your password auditing activities beyond your assigned department. Without formal authorisation, you accessed password files from several other departments within the organisation and subjected them to password-cracking analysis. To your shock, you discovered that approximately 40% of passwords in one department were weak or easily guessable. Even more concerning, the vice president of that department used the password "pre$ident." Believing this to be a serious security risk, you informally hinted to a few former colleagues in that department, hoping they would take corrective action. However, no significant improvement was observed.
+
+Two weeks later, you again accessed and analysed the same password files to verify whether improvements had been made. While doing so, a colleague from another department discovered your activity and reported it to senior management. You were immediately suspended, later arrested on suspicion of hacking under Nigeria's cybercrime laws, and subsequently dismissed from your position.
+
+**Questions**
+
+**(a) Ethical Analysis**      **(3 marks)** Identify and discuss the **_three_** (3) ethical issues in this case.
+
+**(b) Professional Ethics**      **(4 marks)** Using the **ACM Code of Ethics** and the **IEEE Code of Ethics**, discuss FOUR (4) arguments:      i. TWO (2) arguments that could be used to **defend the systems administrator's actions**, and      ii. TWO (2) arguments that could be used to **critically assess or condemn the actions**
+
+**(c) Legal Analysis**      **(3 marks)** Assuming prosecution under the **Cybercrimes (Prohibition, Prevention, etc.) Act, 2015 (Nigeria)** as amended, identify and explain **_THREE_** the possible offences the systems administrator may be charged with. For each offence, state the relevant statutory provision and the maximum penalty.
+
+**(d) Sentencing Outcome**      **(4 marks)** Critically evaluate how a Nigerian court is likely to approach sentencing in this case. In your answer, discuss:      i. Circumstances under which the accused may be discharged      ii. Factors that may lead to a fine or suspended sentence      iii. Factors that may justify a custodial sentence      iv. The role of intent, insider access, and repetition of conduct
+
+**(e) Professional Responsibility and Alternative (corrective) Action**      **(1.5 marks)** Propose what the systems administrator **should have done instead** after discovering weak passwords in other departments, Mention four.
+
+**(f)** If you were the organisation's Chief Information Security Officer (CISO), what **six policies gaps** would you address after this incident?      **(2 marks)**
