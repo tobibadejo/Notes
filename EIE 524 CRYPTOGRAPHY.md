@@ -129,4 +129,9 @@ i) Enterprise-Wide Password Complexity and Lifecycle Policy
 
 ii) Comprehensive Least Privilege and Role-Based Access Control (RBAC) Policy
 
-iii) The absence of a defined "Rules of Engagement" policy for internal penetration testing & security auditing.
+iii) Authorized Vulnerability Assessment and Penetration Testing Policy ("Rules of Engagement")
+
+iv) Mandated Incident Reporting, Escalation, and Responsible Disclosure Policy
+
+v) Privileged User Activity Monitoring and Automated Auditing Policy
+
