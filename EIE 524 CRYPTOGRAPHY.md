@@ -86,7 +86,7 @@ ANSWER
 
 3a. **Unauthorized Access:** The systems administrator exceeded their authorized scope of access by evaluating the passwords of departments they were not assigned to manage.
 
-b. **Breach of Confidentiality/privacy:** Conducting a bruteforce analysis exposed the sensitive plaintext credentials of 40% of the vice president.
+b. **Breach of Confidentiality/privacy:** Conducting a bruteforce analysis exposed the sensitive plain text credentials of 40% of the vice president.
 
 c. **Improper Disclosure:** Informally hinting at critical vulnerability to former colleagues, rather than escalating the issue through proper chain of command incident reporting procedures.
 
@@ -95,3 +95,16 @@ c. **Improper Disclosure:** Informally hinting at critical vulnerability to form
 - **Protect the public / organizational interest:** The administrator was motivated by a proactive desire.
     
 - **Improve system security quality:** Recognizing an active threat (increased hacker activity) the administrator applied their technical skills.
+
+ii) **Arguments to Condemn the actions**
+
+- **Respect privacy & Maintain Confidentiality:** By viewing & cracking the passwords of unassigned users including executives.
+    
+- **Acknowledge & Support authorized uses:** The administrator bypassed established governance boundaries & authorization protocols, acting essentially.
+    
+
+**3c) Possible offences the system administrator maybe charged with**
+
+i) **Unlawful Access to a Computer system (Section 6):** The administrator intentionally accessed the computing infrastructure. Max penalty: Imprisonment up to 5 years or a fine up to ₦5,000,000 or both.
+
+ii) **System/Data Interference (Section 14):** By extracting & subjecting password files to brute force cracking software.
