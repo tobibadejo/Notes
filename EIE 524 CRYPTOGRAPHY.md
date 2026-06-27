@@ -81,3 +81,17 @@ Critically evaluate how a Nigerian court is likely to approach sentencing in thi
 Propose what the systems administrator **should have done instead** after discovering weak passwords in other departments, Mention four.
 
 **(f)** If you were the organisation's Chief Information Security Officer (CISO), what **six policies gaps** would you address after this incident?      **(2 marks)**
+
+ANSWER
+
+3a. **Unauthorized Access:** The systems administrator exceeded their authorized scope of access by evaluating the passwords of departments they were not assigned to manage.
+
+b. **Breach of Confidentiality/privacy:** Conducting a bruteforce analysis exposed the sensitive plaintext credentials of 40% of the vice president.
+
+c. **Improper Disclosure:** Informally hinting at critical vulnerability to former colleagues, rather than escalating the issue through proper chain of command incident reporting procedures.
+
+**b) Arguments to defend the actions**
+
+- **Protect the public / organizational interest:** The administrator was motivated by a proactive desire.
+    
+- **Improve system security quality:** Recognizing an active threat (increased hacker activity) the administrator applied their technical skills.
