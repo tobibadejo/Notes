@@ -63,9 +63,12 @@ Two weeks later, you again accessed and analysed the same password files to veri
 Identify and discuss the **_three_** (3) ethical issues in this case.
 
 **(b) Professional Ethics**      **(4 marks)**
-Using the **ACM Code of Ethics** and the **IEEE Code of Ethics**, discuss FOUR (4) arguments:      i. TWO (2) arguments that could be used to **defend the systems administrator's actions**, and      ii. TWO (2) arguments that could be used to **critically assess or condemn the actions**
+Using the **ACM Code of Ethics** and the **IEEE Code of Ethics**, discuss FOUR (4) arguments:  
+	i. TWO (2) arguments that could be used to **defend the systems administrator's actions**, and
+	ii. TWO (2) arguments that could be used to **critically assess or condemn the actions**
 
-**(c) Legal Analysis**      **(3 marks)** Assuming prosecution under the **Cyber-crimes (Prohibition, Prevention, etc.) Act, 2015 (Nigeria)** as amended, identify and explain **_THREE_** the possible offences the systems administrator may be charged with. For each offence, state the relevant statutory provision and the maximum penalty.
+**(c) Legal Analysis**      **(3 marks)**
+Assuming prosecution under the **Cyber-crimes (Prohibition, Prevention, etc.) Act, 2015 (Nigeria)** as amended, identify and explain **_THREE_** the possible offences the systems administrator may be charged with. For each offence, state the relevant statutory provision and the maximum penalty.
 
 **(d) Sentencing Outcome**      **(4 marks)** Critically evaluate how a Nigerian court is likely to approach sentencing in this case. In your answer, discuss:      i. Circumstances under which the accused may be discharged      ii. Factors that may lead to a fine or suspended sentence      iii. Factors that may justify a custodial sentence      iv. The role of intent, insider access, and repetition of conduct
 
