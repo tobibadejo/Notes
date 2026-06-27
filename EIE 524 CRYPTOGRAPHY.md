@@ -20,3 +20,15 @@ b. **OT role:** SCADA commands, telemetry, alarms — must be protected in trans
 
 v. **Cryptology**     a. **Definition:** The broader scientific field encompassing cryptography (constructing secure systems) and cryptanalysis (breaking them). **(0.5 Mark)**     
 b. **OT role:** Guides design/assessment of secure communication stacks for ICS: selection of primitives, key management, threat modelling against APTs. **(0.5 Mark)**
+
+vi. **Encipher (Encrypt)**     a. **Definition:** The process of transforming plaintext into ciphertext using a cipher and key, often providing confidentiality and optionally integrity (authenticated encryption). **(0.5 Mark)**     
+b. **OT role:** Performed at PLC/edge gateway or application layer (TLS/OPC UA) to ensure sensor/control data and inter-site links are unreadable to interceptors. **(0.5 Mark)**
+
+vii. **Cipher-text**     a. **Definition:** The output of encryption — unreadable data that should only be recoverable by authorized parties possessing the right key(s). **(0.5 Mark)**     
+b. **OT role:** Telemetry streams and command messages on the network appear as ciphertext on WAN links or telemetry channels; protecting it prevents eavesdropping and replay attacks. **(0.5 Mark)**
+
+viii. **Cryptography**     a. **Definition:** The practice and study of techniques for secure communication: encryption, authentication, integrity, non-repudiation, and key management. **(0.5 Mark)**     
+b. **OT role:** Underpins secure OPC UA over TLS, IPsec site-to-site tunnels, VPNs for remote engineering, firmware signing, and secure boot for PLCs and RTUs. **(0.5 Mark)**
+
+ix. **Decipher (Decrypt)**     a. **Definition:** The process of transforming ciphertext back into plaintext using the appropriate cipher and key, including verification of integrity/authenticity when using AEAD modes. **(0.5 Mark)**     
+b. **OT role:** SOC, edge gateways or PLCs decrypt received telemetry/commands to act upon them; failure to authenticate/decrypt signals tampering or misconfiguration. **(0.5 Mark)**
