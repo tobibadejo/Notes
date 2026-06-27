@@ -105,11 +105,13 @@ ii) **Arguments to Condemn the actions**
 
 **3c) Possible offences the system administrator may be charged with**
 
-i) **Unlawful Access to a Computer system (Section 6):** The administrator intentionally accessed the computing infrastructure. Max penalty: Imprisonment up to 5 years or a fine up to ₦5,000,000 or both.
+i) **Unlawful Access to a Computer system (Section 6):** The administrator intentionally accessed the computing infrastructure. 
+Max penalty: Imprisonment up to 5 years or a fine up to ₦5,000,000 or both.
 
 ii) **System/Data Interference (Section 14):** By extracting & subjecting password files to brute force cracking software.
-
 Max penalty: **₦10,000,000 fine or 7 years imprisonment, or both**.
+
+iii) **Unauthorised Interception or Acquisition of Data**
 
 **d) i) Discharge Circumstances:** The Court might discharge / offer leniency if it determines a total absence of Malicious Intent (mens) & classifies the act as misguided but genuine internal whistle blowing.
 
