@@ -135,4 +135,4 @@ iv) Incident reporting channels for vulnerabilities
 
 v) Security auditing guidelines with clear scope limitations
 
-vi) Acceptable Use and Regular Security Awareness Training Policy
+vi) Employee cybersecurity awareness training
