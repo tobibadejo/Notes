@@ -131,8 +131,8 @@ ii) Role-based access control (RBAC) to prevent cross-department access
 
 iii) i. Formal penetration testing policy defining who can test systems and under what approval
 
-iv) Mandated Incident Reporting, Escalation, and Responsible Disclosure Policy
+iv) Incident reporting channels for vulnerabilities
 
-v) Privileged User Activity Monitoring and Automated Auditing Policy
+v) Security auditing guidelines with clear scope limitations
 
 vi) Acceptable Use and Regular Security Awareness Training Policy
