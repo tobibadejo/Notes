@@ -127,9 +127,9 @@ Max penalty: Imprisonment up to 2 years or a fine upto ₦5,000,000 or both.
 **f) Policy gaps I would address after this incident**
 i) Enterprise-Wide Password Complexity and Lifecycle Policy
 
-ii) Comprehensive Least Privilege and Role-Based Access Control (RBAC) Policy
+ii) Role-based access control (RBAC) to prevent cross-department access
 
-iii) Authorized Vulnerability Assessment and Penetration Testing Policy ("Rules of Engagement")
+iii) i. Formal penetration testing policy defining who can test systems and under what approval
 
 iv) Mandated Incident Reporting, Escalation, and Responsible Disclosure Policy
 
