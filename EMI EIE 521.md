@@ -114,3 +114,26 @@ Even a moderate noise 0.5A produces a large ground voltage (628V) which can coup
 |**Chassis grounding**|Bond chassis to earth with short, wire, low-inductance connection|Maintain chassis at earth potential, improve safety & stability|
 d) PCB redesign strategy Use a continuous ground plane and avoid high speed signals crossing over discontinuities. Move decoupling capacitors near the power pins of the IC and keep the clock trace short. Functional placement of analogue, digital and power sections. Use matched differential pairs to improve element routs. Install ground via closely around high speed and noisy areas, and reduce the length of the chassis to the ground connection to reduce common mode emission. These changes will help to better control return current, decrease loop area and help to improve overall EMC performance.
 
+a) Using Figure 1, Identify and analyze the likely causes of the EMC issues. Your discussion should consider radiated emissions, conducted emissions, coupling mechanisms and signal integrity degradation.
+
+b) Determine
+
+i) The rate of current change $di/dt$
+
+ii) The voltage developed across the ground inductance $V = L(di/dt)$
+
+iii) The significance of the calculated voltage with respect to EMC Performance.
+
+c) Critically evaluate the PCB layout in terms of return current paths, ground planes discontinuities, decoupling strategy, high speed signal routing and common-mode/differential mode noise generation.
+
+d) Recommend and justify practical design modifications to improve EMC performance, considering component placement, routing, grounding, power distribution, via stitching and chassis ground implementation.
+
+**d) PCB redesign strategy**
+
+Use a continuous ground plane and avoid high speed signals crossing over discontinuities. Move decoupling capacitors near the power pins of the IC and keep the clock trace short. Functional placement of analogue, digital and power sections.
+
+Use matched differential pairs to improve element routs.
+
+Install ground via closely around high speed and noisy areas, and reduce the length of the chassis to the ground connection to reduce common mode emission.
+
+These changes will help to better control return current, decrease loop area and help to improve overall EMC performance.
