@@ -73,12 +73,40 @@ Even a moderate noise (0.5A) produces a large ground voltage ($\approx 628V$) wh
 
 ### c) Recommended Grounding Strategy
 
-|**Item**|**Recommendation**|**Justification**|
-|---|---|---|
-|**Separated analog & digital grounds**|Use partitioned ground planes & connect at a single point (star point)|Prevents digital switching noise from entering analog sectors|
-|**Ground Planes**|Use continuous, low-impedance ground planes on PCB|Provide short return paths, low inductance & reduces radiation|
-|**Single point/ Multipoint**|Star (single point) at low frequencies, multipoint at high frequency|Single point avoids ground loops; multipoint reduces high frequency impedance|
-|**Chassis grounding**|Bond chassis to earth with short, wide, low-inductance connection|Maintains chassis at earth potential improves shielding & safety|
+| **Item**                               | **Recommendation**                                                     | **Justification**                                                             |
+| -------------------------------------- | ---------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
+| **Separated analog & digital grounds** | Use partitioned ground planes & connect at a single point (star point) | Prevents digital switching noise from entering analog sectors                 |
+| **Ground Planes**                      | Use continuous, low-impedance ground planes on PCB                     | Provide short return paths, low inductance & reduces radiation                |
+| **Single point/ Multipoint**           | Star (single point) at low frequencies, multipoint at high frequency   | Single point avoids ground loops; multipoint reduces high frequency impedance |
+| **Chassis grounding**                  | Bond chassis to earth with short, wide, low-inductance connection      | Maintains chassis at earth potential improves shielding & safety              |
+| Cable shield grounding                 | Terminate shields $360^\circ$ to chassis at both ends                  | Prevent shield current & reduces common-mode noise leakage                    |
+| Minimize ground impedance              | Use short, wide connectors, use copper planes, straps & multiple vias  | reduces $X_L$, lowers noise voltage, and improves EMI performance.            |
+
+### Question 2
+
+Shows a six-layer mixed signal PCB comprising a 200MHz microcontroller, analogue sensor-conditioning circuits, a 500kHz switching power supply, Ethernet interfaces, and a chassis ground connection. During EMC compliance tests the system exceeded radiated emission limits, experienced intermittent communication errors and exhibited excessive noise in the analogue measurement channels.
+
+The following parameters are provided:
+
+Ground inductance: $L = 8nH$
+
+Transient current: $\Delta I = 1.5A$
+
+Rise time: $t_r = 2ns$
+
+a) Using figure 1, identify and analyze the likely causes of the EMC issues. Your discussion should consider radiated emissions, conducted emissions, coupling mechanisms and signal integrity degradation.
+
+b) Determine
+
+i) The rate of current change $di/dt$
+
+ii) The voltage developed across the grounding inductance $V = L(di/dt)$
+
+iii) The significance of the calculated voltage with respect to EMC performance.
+
+c) Critically evaluate the PCB layout in terms of return current paths, ground planes discontinuities, decoupling strategy, high-speed signal routing and common-mode/differential mode noise generation.
+
+d) Recommend and justify practical design modifications to improve EMC performance considering component placement, routing, grounding, power distribution, via stitching and chassis ground implementation.
 
 
 
