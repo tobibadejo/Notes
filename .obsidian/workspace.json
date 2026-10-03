@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EMI EIE 521.md",
+                "file": "CEN 511.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "EMI EIE 521"
+              "title": "CEN 511"
             }
           }
         ],
@@ -253,9 +253,10 @@
   },
   "active": "d0787768fa6611e0",
   "lastOpenFiles": [
+    "EMI EIE 521.md",
+    "CEN 511.md",
     "Pasted image 20260711150043.png",
     "EIE 524 CRYPTOGRAPHY.md",
-    "EMI EIE 521.md",
     "CEN 523 AOC.md",
     "EIE 524 CRYPTOGRAPHY 1.md",
     "CEN 523 Computer Network and Security AOC.md",
