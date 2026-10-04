@@ -239,7 +239,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -255,6 +256,7 @@
   },
   "active": "d0787768fa6611e0",
   "lastOpenFiles": [
+    "Pasted image 20261004164227.png",
     "wearable_health_patch_block_diagram.png",
     "Pasted image 20261003164058.png",
     "7 SEGMENT.png",
