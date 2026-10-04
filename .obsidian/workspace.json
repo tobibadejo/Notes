@@ -239,8 +239,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -256,6 +255,8 @@
   },
   "active": "d0787768fa6611e0",
   "lastOpenFiles": [
+    "EIE 524 CRYPTOGRAPHY.md",
+    "CEN 511.md",
     "home_monitoring_isr_flowcharts-v2.png",
     "smart_camera_block_diagram_graphic.png",
     "Pasted image 20261004164227.png",
@@ -265,9 +266,7 @@
     "temp_monitoring_logging_system.png",
     "Pasted image 20261003114714.png",
     "EMI EIE 521.md",
-    "CEN 511.md",
     "Pasted image 20260711150043.png",
-    "EIE 524 CRYPTOGRAPHY.md",
     "CEN 523 AOC.md",
     "EIE 524 CRYPTOGRAPHY 1.md",
     "CEN 523 Computer Network and Security AOC.md",
