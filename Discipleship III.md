@@ -241,7 +241,10 @@ The purpose of the five-fold gift office ministries is to prepare the people for
 
 ### **Membership of the body of Christ is comprised of:**
 
-i. Members of the General Body of Christ, that is the worldwide body of Christians ii. Members of the local body, joining fellow Christians in a church fellowship and worshiping at a particular center or assembly. E.g. v Christ Miracle Church Mission (CMCM) is our own local church assembly or congregation (Rev. 2:1, 8 and 12) v CMCM is also a member and part of the general assembly and the Church Firstborn (Jesus Christ) (Hebrews 12:23)
+i. Members of the General Body of Christ, that is the worldwide body of Christians 
+ii. Members of the local body, joining fellow Christians in a church fellowship and worshiping at a particular center or assembly. E.g. 
+v Christ Miracle Church Mission (CMCM) is our own local church assembly or congregation (Rev. 2:1, 8 and 12) 
+v CMCM is also a member and part of the general assembly and the Church Firstborn (Jesus Christ) (Hebrews 12:23)
 
 ### **Admission into the body of Christ**
 
