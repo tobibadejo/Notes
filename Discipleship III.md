@@ -54,7 +54,7 @@ On 13th march 1989, God directed me to leave ile-ife for Akure and in June 1989 
 
 #### i. **The CMCM Vision**
 
-The vision statement of Christ Miracle Church Mission I to plant churches in the one hundred and sixty eight countries of the world through the miraculous power of pour Lord Jesus Christ.
+The vision statement of Christ Miracle Church Mission I to plant churches in the one hundred and sixty eight countries of the world through the miraculous power of our Lord Jesus Christ.
 
 #### ii. **The CMCM Mission**
 
