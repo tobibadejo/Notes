@@ -253,11 +253,14 @@ When you got converted to the Christian faith, you were adopted into the body of
 God gave us the local church fellowship so that His children could come together for the following purpose.
 
 i. To prepare and equip the believers for the work of the ministry (Ephesians 4:12) 
+
 ii. For the spiritual maturity of believers (Ephesians 4:13-16) 
+
 iii. For fellowship with other Christians and exhortation of one another (Hebrews 10:25) 
+
 iv. Fellowship in the local church creates rooms for believers to impart one another with spiritual gifts (Romans 1:11-12).
 
-It provides room for believers to care for one another and share things in common (Acts 4:2)
+v. It provides room for believers to care for one another and share things in common (Acts 4:2)
 
 vi. The local church is a platform for building up faith and encouraging one another in the life (1 Timothy 3:10-14, 1 Thessalonians 2:8)
 
@@ -282,3 +285,70 @@ xiv. For counseling.
 i. Every Christian needs a local church assembly to share fellowship with God and His Children (1 John 1:3-7)
 
 ii. The CMCM congregation is one of such local assemblies. This church has been mandated by God to support and lead you and every other child of God that will come here for worship to fulfill his or her divine destiny.
+
+iii. Proverbs 27:17 says, "IRON SHARPENS IRON." This statement is what CMCM does to the lives of all she is privileged to touch.
+
+### **Responsibilities**
+
+Every member of the CMCM like every other local church assembly is responsible to God and the assembly in the following ways: a member must contribute to the overall growth of CMCM church by:
+
+i. Being a born again Christian ii. Abiding in Christ and bearing good fruits (John 15, Corinthians 5:22-23) iii. Witnessing unto other (Mark 16:15; Mk. 28:19) iv. Being a member of ay least one of the fellowship in the church v. Being obedient to the authority of the church (Romans 13:1-8) vi. Serving in a church department (1 Cor 12:12-28) vii. Participating in church activities viii. Being a goof ambassador of our Lord Jesus Christ 2 Cor. 5:20) ix. Transform the world with a godly life style (Romans 12:1-2) x. A member is one who pays tithe to the CMCM church organization (Malachi 3:10a Matthew 23:23.) Refer to your lesson on the ordinance of giving.
+
+## 6. **MARRIAGE AND FAMILY**
+
+Marriage is a man and a woman leaving their respective parents to become husband and wife in a new family. God says "and they shall become one flesh" (Genesis 2:21-25)
+### **Five Divine features of Marriage**
+
+i. A man and a woman are joined in marriage by God (Matthew 19:4-6). ii. Marriage is a divine covenant with God Almighty as the principal witness (Malachi 2:14) iii. Marriage is good (Proverbs 18:22) iv. Marriage is precious and honorable in righteousness (Hebrew 13:5) v. God designed marriage to be the nucleus of family and society (Genesis 2:27 28)
+
+### **Marriage and family is designed for:**
+
+i. Mutual fellowship and companionship (Eccl 4:9-12) ii. Emotional fulfillment and sexual purity (1Cor. 7:1-7) iii. Raising godly children (Malachi 2:15, Gen 2:27-28)
+
+### **Hints for singles planning to marry**
+
+i. Pray and ask for divine guidance when choosing a marriage partner (Proverbs 16:1-3) ii. Build you marriage foundation on purity: No sex before marriage (Hebrew 13:5) iii. Seek and obtain parental consent and blessings. iv. Engage in premarital counseling. It's compulsory to meet the Church's marriage committee.
+
+### **Some tips for building strong marriage**
+
+i. **Clear up religious differences:**
+
+Differences in religious beliefs and doctrines could have negative effect on a marriage.
+
+ii. **Learn to be effective relationship managers:**
+
+Create the environment required for a happy home. Let your spouse understand what would make your home a little happier and that it is your dream to make him or her happy. Create a loving home (Colossians 3:14). Be great forgivers.
+
+iii. **Know that marriage is not a bed of roses:**
+
+Learn to understand and tolerate each other. Learn to resolve your difference without a third party. Plan your goals and work together. Marriages don't work where spouses pull in different directions.
+
+iv. **A blessing to your spouse and family:**
+
+Find way to bless your husband or wife with your God given talents. Be best of friends and partners, indeed, believe in each other. Learn to give and receive criticism constructively and with love.
+
+v. **Give top Priority to your personal relationship with God:**
+
+Encourage each other to grow and mature to be better servants of Christ. Pray for each other and together.
+
+vi. **Inspire one another:**
+
+Responsibilities can be overwhelming and frightening, share them together, show and express support. Share information; read good books and magazines and keep each other informed on news and current event. Share zeal and excitement, trust and appreciate each other.
+
+### **Some tips for raising Children**
+
+i. Pray always for your children (Proverbs 3:5)
+
+ii. Train your children well (Proverbs 26:17)
+
+iii. Support and enforce discipline together (Matthew 5:37)
+
+iv. Establish and maintain good family virtues (1 Corinthians 14:40)
+
+v. Be sensitive to your children's feelings (proverbs 18:13)
+
+vi. Teach by example (Romans 2:2)
+
+**Activity: Induction into group fellowships**
+
+_Fellowship leaders to be present_
