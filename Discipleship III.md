@@ -235,8 +235,7 @@ The CMCM congregation has a total of 18 such departments and we have covered the
 
 #### b. **Ordained Office Ministries**
 
-Ordained office, ministries are Apostles, Prophets, evangelists,
-Pastor and Teacher (Ephesians 4:11-16).
+Ordained office, ministries are Apostles, Prophets, evangelists, Pastor and Teacher (Ephesians 4:11-16).
 
 The purpose of the five-fold gift office ministries is to prepare the people for works of services, so that the body of Christ may be built up. Until we all attain unity in the faith, strength in the knowledge of the Son of God and maturity to measure up to the fullness of Christ.
 
