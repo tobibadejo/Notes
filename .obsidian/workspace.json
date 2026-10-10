@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CEN 511.md",
+                "file": "Discipleship III.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CEN 511"
+              "title": "Discipleship III"
             }
           }
         ],
@@ -255,9 +255,10 @@
   },
   "active": "d0787768fa6611e0",
   "lastOpenFiles": [
+    "CEN 511.md",
+    "Discipleship III.md",
     "Pasted image 20261004191944.png",
     "EIE 524 CRYPTOGRAPHY.md",
-    "CEN 511.md",
     "home_monitoring_isr_flowcharts-v2.png",
     "smart_camera_block_diagram_graphic.png",
     "Pasted image 20261004164227.png",
