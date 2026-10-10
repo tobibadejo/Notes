@@ -294,7 +294,14 @@ iii. Proverbs 27:17 says, "IRON SHARPENS IRON." This statement is what CMCM does
 
 Every member of the CMCM like every other local church assembly is responsible to God and the assembly in the following ways: a member must contribute to the overall growth of CMCM church by:
 
-i. Being a born again Christian ii. Abiding in Christ and bearing good fruits (John 15, Corinthians 5:22-23) iii. Witnessing unto other (Mark 16:15; Mk. 28:19) iv. Being a member of ay least one of the fellowship in the church v. Being obedient to the authority of the church (Romans 13:1-8) vi. Serving in a church department (1 Cor 12:12-28) vii. Participating in church activities viii. Being a goof ambassador of our Lord Jesus Christ 2 Cor. 5:20) ix. Transform the world with a godly life style (Romans 12:1-2) x. A member is one who pays tithe to the CMCM church organization (Malachi 3:10a Matthew 23:23.) Refer to your lesson on the ordinance of giving.
+i. Being a born again Christian 
+ii. Abiding in Christ and bearing good fruits (John 15, Corinthians 5:22-23) 
+iii. Witnessing unto other (Mark 16:15; Mk. 28:19) 
+iv. Being a member of at least one of the fellowship in the church 
+v. Being obedient to the authority of the church (Romans 13:1-8) 
+vi. Serving in a church department (1 Cor 12:12-28) 
+vii. Participating in church activities 
+viii. Being a good ambassador of our Lord Jesus Christ 2 Cor. 5:20) ix. Transform the world with a godly life style (Romans 12:1-2) x. A member is one who pays tithe to the CMCM church organization (Malachi 3:10a Matthew 23:23.) Refer to your lesson on the ordinance of giving.
 
 ## 6. **MARRIAGE AND FAMILY**
 
