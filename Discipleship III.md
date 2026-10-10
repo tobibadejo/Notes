@@ -158,3 +158,127 @@ i. Media TV/Radio/Internet
 j. Ushering
 
 k. Sanctuary Keepers
+
+l. Sunday School
+
+m. Interpretation
+
+n. Children
+
+o. Technical
+
+p. Care Group Visitation to Homes, Hospitals and Prisons
+
+q. Medical
+
+r. Marriage & family
+
+#### iv. **Church Fellowship Groups:**
+
+a. Blessed Christian Fellowship
+
+b. Charity Ambassadors
+
+c. Christ Love League
+
+d. Restoration Fellowship
+
+e. Restoration fellowship
+
+f. Second Coming of Christ
+
+g. Resurrection Brothers.
+
+h. Sisters of the Pentecost
+
+i. Anointed Group
+
+j. Youth for Christ
+
+#### v. **Training**
+
+a. CMCM Discipleship/Leadership Training
+
+b. Champions of Fire Bible Institute
+
+## 3. **MEMBER OF THE BODY OF CHRIST**
+
+### **The Body of Christ**
+
+Believers from all over world are collectively called the Body of Christ (Romans 12:4-5)
+
+- The body of Christ is the Household of God (Ephesians 2:19)
+    
+- The body of Christ Is the Church of God (Acts 20:28)
+The church of God is made up of true Christians from all over the world. The church of God is not a building or buildings, but is everyone that is born again, having accepted Jesus Christ as Lord and Savior (1Corinthains 12:12-28)
+
+The church of God is the Pillar and ground of the truth (1 Timothy 3:15)
+
+### **The Structure of the Body of Christ**
+
+- The Lord Jesus Christ is the head of the Church (Ephesians 5:23)
+    
+- The Body of Christ is one but has many Members (1 Corinthians 12:12-28, Romans 12:4-8)
+    
+
+### **Building the Body of Christ**
+
+God is building all of us together into a power spiritual house (Ephesians 2:20-22)
+
+**Through:**
+
+#### a. **Mutual Benefits from Individuals Gifts**
+
+Individual gifts services are ministry services that can only function within local church congregational setting. They are needed for efficient running of every local church assembly. They are church service department e.g. prayer or music department (1 Corinthians 12:12-28, Romans 12:4-8).
+
+The CMCM congregation has a total of 18 such departments and we have covered them under Church Service Department. For those of us who intend to serve God and the body of Christ, membership of one of these departments is your basic commencement. This Church has a good leadership training program for all intending church workers in any of the 18 departments. Everyone should therefore identify his/her calling and operate under such (1Cor 3:6).
+
+#### b. **Ordained Office Ministries**
+
+Ordained office, ministries are Apostles, Prophets, evangelists,
+Pastor and Teacher (Ephesians 4:11-16).
+
+The purpose of the five-fold gift office ministries is to prepare the people for works of services, so that the body of Christ may be built up. Until we all attain unity in the faith, strength in the knowledge of the Son of God and maturity to measure up to the fullness of Christ.
+
+### **Membership of the body of Christ is comprised of:**
+
+i. Members of the General Body of Christ, that is the worldwide body of Christians ii. Members of the local body, joining fellow Christians in a church fellowship and worshiping at a particular center or assembly. E.g. v Christ Miracle Church Mission (CMCM) is our own local church assembly or congregation (Rev. 2:1, 8 and 12) v CMCM is also a member and part of the general assembly and the Church Firstborn (Jesus Christ) (Hebrews 12:23)
+
+### **Admission into the body of Christ**
+
+When you got converted to the Christian faith, you were adopted into the body of Christ by the Holy Spirit (Romans 8:15).
+
+## 4. **THE PURPOSE FOR THE LOCAL CHURCH**
+
+God gave us the local church fellowship so that His children could come together for the following purpose.
+
+i. To prepare and equip the believers for the work of the ministry (Ephesians 4:12) 
+ii. For the spiritual maturity of believers (Ephesians 4:13-16) 
+iii. For fellowship with other Christians and exhortation of one another (Hebrews 10:25) 
+iv. Fellowship in the local church creates rooms for believers to impart one another with spiritual gifts (Romans 1:11-12).
+
+It provides room for believers to care for one another and share things in common (Acts 4:2)
+
+vi. The local church is a platform for building up faith and encouraging one another in the life (1 Timothy 3:10-14, 1 Thessalonians 2:8)
+
+vii. Helps people to become a channel of blessing (2Cor 8:14)
+
+viii. Sharing one another's burden (Phil 4:14)
+
+ix. For corporate ministration to the Lord through praise and worship (Act 13:1)
+
+x. For the corporate ministration to the saints through preaching and teaching of God's word (1Cor. 12:20-27, 2 Peter 1:3, Acts 2:44-46)
+
+xi. For corporate prayers (2 Chronicles 7:14)
+
+xii. To evangelize the world (Act 2:47, Mark 16:15-20)
+
+xiii. For the celebration of New Testament ordinance of Water and Holy Spirit Baptism, the Lord's Supper or Holy Communion and Anointing
+
+xiv. For counseling.
+
+## 5. **CHRIST MIRACLE CHURCH MISSION MEMBERSHIP AND FELLOWSHIP**
+
+i. Every Christian needs a local church assembly to share fellowship with God and His Children (1 John 1:3-7)
+
+ii. The CMCM congregation is one of such local assemblies. This church has been mandated by God to support and lead you and every other child of God that will come here for worship to fulfill his or her divine destiny.
