@@ -301,22 +301,33 @@ iv. Being a member of at least one of the fellowship in the church
 v. Being obedient to the authority of the church (Romans 13:1-8) 
 vi. Serving in a church department (1 Cor 12:12-28) 
 vii. Participating in church activities 
-viii. Being a good ambassador of our Lord Jesus Christ 2 Cor. 5:20) ix. Transform the world with a godly life style (Romans 12:1-2) x. A member is one who pays tithe to the CMCM church organization (Malachi 3:10a Matthew 23:23.) Refer to your lesson on the ordinance of giving.
+viii. Being a good ambassador of our Lord Jesus Christ 2 Cor. 5:20) 
+ix. Transform the world with a godly life style (Romans 12:1-2) 
+x. A member is one who pays tithe to the CMCM church organization (Malachi 3:10a Matthew 23:23.) Refer to your lesson on the ordinance of giving.
 
 ## 6. **MARRIAGE AND FAMILY**
 
 Marriage is a man and a woman leaving their respective parents to become husband and wife in a new family. God says "and they shall become one flesh" (Genesis 2:21-25)
 ### **Five Divine features of Marriage**
 
-i. A man and a woman are joined in marriage by God (Matthew 19:4-6). ii. Marriage is a divine covenant with God Almighty as the principal witness (Malachi 2:14) iii. Marriage is good (Proverbs 18:22) iv. Marriage is precious and honorable in righteousness (Hebrew 13:5) v. God designed marriage to be the nucleus of family and society (Genesis 2:27 28)
+i. A man and a woman are joined in marriage by God (Matthew 19:4-6). 
+ii. Marriage is a divine covenant with God Almighty as the principal witness (Malachi 2:14) 
+iii. Marriage is good (Proverbs 18:22) 
+iv. Marriage is precious and honorable in righteousness (Hebrew 13:5) 
+v. God designed marriage to be the nucleus of family and society (Genesis 2:27 28)
 
 ### **Marriage and family is designed for:**
 
-i. Mutual fellowship and companionship (Eccl 4:9-12) ii. Emotional fulfillment and sexual purity (1Cor. 7:1-7) iii. Raising godly children (Malachi 2:15, Gen 2:27-28)
+i. Mutual fellowship and companionship (Eccl 4:9-12) 
+ii. Emotional fulfillment and sexual purity (1Cor. 7:1-7) 
+iii. Raising godly children (Malachi 2:15, Gen 2:27-28)
 
 ### **Hints for singles planning to marry**
 
-i. Pray and ask for divine guidance when choosing a marriage partner (Proverbs 16:1-3) ii. Build you marriage foundation on purity: No sex before marriage (Hebrew 13:5) iii. Seek and obtain parental consent and blessings. iv. Engage in premarital counseling. It's compulsory to meet the Church's marriage committee.
+i. Pray and ask for divine guidance when choosing a marriage partner (Proverbs 16:1-3) 
+ii. Build you marriage foundation on purity: No sex before marriage (Hebrew 13:5) 
+iii. Seek and obtain parental consent and blessings. 
+iv. Engage in premarital counseling. It's compulsory to meet the Church's marriage committee.
 
 ### **Some tips for building strong marriage**
 
